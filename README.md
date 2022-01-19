@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ilhamaulanap
-- 👀 I’m interested in Front-end & JavaScript
-- 🌱 I’m currently learning Python & UI/UX
-- 💞️ I’m looking to collaborate on Website or Mobile App Project
+- 👀 I’m Data Engineer and Web Developer (PERN Stack)
+- 🌱 I’m currently learning Apache Kafka (Data Engineer) & Kubernets (Cloud Infrastructure)
+- 💞️ I’m looking to collaborate on Data Science Project and Website Development Project
 
 <!---
 ilhamaulanap/ilhamaulanap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
