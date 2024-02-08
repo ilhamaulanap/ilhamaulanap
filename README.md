@@ -23,7 +23,7 @@
   </ul>
 </div>
 
-- 🔭 Working on **GCP, AWS, Python, SQL, Spark, SSIS, MSSQL, MongoDB, PostgreSQL, Docker, Terraform, Airflow**
+- 🔭 Working on **GCP, AWS, Python, SQL, Spark, SSIS, MSSQL, MongoDB, PostgreSQL, Docker, Terraform, Airflow, PowerBI, Looker**
 - 🌱 Learning about **Kafka, DBT, & Kubernetes**
 - 💬 Main languages: **Python, SQL**
 - 📫 How to reach me: **ilhamaulanap@gmail.com**
