@@ -61,7 +61,7 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Setup Kafka on Compute Engine (GCP) with Docker, Terraform and CI/CD Github Actions](https://medium.com/@ilhamaulanap/setup-kafka-on-compute-engine-gcp-with-docker-terraform-and-ci-cd-github-actions-172a34d82506)
 - [Data lake with Pyspark through Dataproc GCP using Airflow](https://ilhamaulanap.medium.com/data-lake-with-pyspark-through-dataproc-gcp-using-airflow-d3d6517f8168)
 - [Automate Your Data Warehouse with Airflow on Google Cloud Platform](https://selectfrom.dev/automate-your-data-warehouse-with-airflow-on-gcp-b48dfe51360f)
 <!-- BLOG-POST-LIST:END -->
