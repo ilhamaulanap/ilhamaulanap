@@ -18,11 +18,11 @@
   </ul>
 </div>
 
-- 🔭 Working on **GCP, AWS, Python, SQL, Spark, SSIS, MSSQL, MongoDB, PostgreSQL, Docker, Terraform, Airflow, PowerBI, Looker**
-- 🌱 Learning about **Kafka, DBT, & Kubernetes**
+- 🔭 Working on **GCP, Azure, Python, SQL, Spark, SSIS, MSSQL, MongoDB, PostgreSQL, Docker, Terraform, Airflow, PowerBI, Kafka, DBT, & Kubernetes**
+- 🌱 Learning about **RAG, Vector, LLM**
 - 💬 Main languages: **Python, SQL**
 - 📫 How to reach me: **ilhamaulanap@gmail.com**
-- 🚩 Interested in Data Engineering project
+- 🚩 Interested in Data Engineering project or AI project
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
